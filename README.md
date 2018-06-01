@@ -14,4 +14,4 @@ i.e.  >Q63TL0   ----->    >Burkholderia pseudomallei (strain K96243)
 Dali-to-PDB.py
 
 A script that will take the URL provided as a result of a dali server search i.e.  http://ekhidna.biocenter.helsinki.fi/dali_server/results/YOUR-RESULT-HERE/index.html
-and convert the top 50 results into PDB files for easier visulisation. The scores associated to the results will be included in the title of the generated files.
+and convert the top 50 results into .pdb files for visulisation and structural alignment. The Dali scores associated to the results will be included in the title of the generated files.
