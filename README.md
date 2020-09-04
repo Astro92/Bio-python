@@ -16,4 +16,4 @@ Dali-to-PDB.py
 A script that will take the URL provided as a result of a dali server search i.e.  http://ekhidna.biocenter.helsinki.fi/dali_server/results/YOUR-RESULT-HERE/index.html
 and convert the top 50 results into .pdb files for visulisation and structural alignment. The Dali scores associated to the results will be included in the title of the generated files.
 
-Scripts are provided as is, if the website formats are changed this will throw and error.
+Scripts are provided as is, if the website formats are changed this will throw an error.
